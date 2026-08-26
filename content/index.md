@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
----
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## title: Мои конспекты
+
+# Мои конспекты
+
+Здесь собраны мои учебные конспекты.
+
+Выбирай нужный конспект в меню слева.
