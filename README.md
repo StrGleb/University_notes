@@ -1,17 +1,29 @@
-# Quartz v5
+# University Notes
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Здесь хранятся лекции и учебные материалы по предметам в формате Markdown. Конспекты ведутся в [Obsidian](https://obsidian.md/) и синхронизируются с GitHub.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Сайт
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Конспекты доступны в виде сайта на **Quartz**:
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+**https://strgleb.github.io/University_notes/**
 
-## Sponsors
+Quartz используется для преобразования Markdown-конспектов в удобный сайт с навигацией и внутренними ссылками.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+
+## Используемые инструменты
+
+* [Obsidian](https://obsidian.md/) — создание и редактирование конспектов
+* [Git](https://git-scm.com/) — контроль версий
+* [GitHub](https://github.com/) — хранение репозитория
+* [Quartz](https://quartz.jzhao.xyz/) — публикация конспектов в виде сайта
+
+## 📁 Структура
+
+```text
+University_notes/
+├── content/       # конспекты
+├── quartz/        # конфигурация Quartz
+├── quartz.config.yaml
+└── ...
+```
